@@ -27,7 +27,13 @@ import PackageDescription
 
 let package = Package(
     name: "Willow",
-    platforms: [ .macOS(.v10_12), .iOS(.v10), .tvOS(.v10), .watchOS(.v3) ],
-		products: [ .library(name: "Willow", targets: [ "Willow" ]) ],
-		targets: [ .binaryTarget(name: "Willow", path: "Willow.xcframework") ]
+    platforms: [ 
+			.macOS(.v10_12), .iOS(.v10), .tvOS(.v10), .watchOS(.v3) 
+		],
+		products: [ 
+			.library(name: "Willow", targets: [ "Willow" ]) 
+		],
+		targets: [ 
+			.binaryTarget(name: "Willow", path: "Willow.xcframework") 
+		]
 )

@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		das5o91EJJn70RJkqGPz00yN0BE=
+		mWlRi7aqJ3Lb+oOxTP592ch0gLU=
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dhiPK4+XIVCzzEBVyq9CaYjP/y4=
+		qQhxOj3n0tJ6ymIPtJxNW6fOS8g=
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		dhiPK4+XIVCzzEBVyq9CaYjP/y4=
+		qQhxOj3n0tJ6ymIPtJxNW6fOS8g=
 		</data>
 		<key>Modules/Willow.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/Willow.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kAszvlCRdvaERJTQZ2EGNKWtuHY=
+		DdbevXlXwzTgk4GOfKDaz6xI+Rs=
 		</data>
 		<key>Modules/Willow.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/Willow.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		kAszvlCRdvaERJTQZ2EGNKWtuHY=
+		DdbevXlXwzTgk4GOfKDaz6xI+Rs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dhiPK4+XIVCzzEBVyq9CaYjP/y4=
+			qQhxOj3n0tJ6ymIPtJxNW6fOS8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			TKtGjMKxPdYpZlcXaDiK6KyfFELmF8rrP57wahSGgqQ=
+			W12reReN4T0hrgjVOmLze6+uF4aOUSTrGo/Ncnk2aOw=
 			</data>
 		</dict>
 		<key>Modules/Willow.swiftmodule/arm64.swiftdoc</key>
@@ -176,11 +176,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dhiPK4+XIVCzzEBVyq9CaYjP/y4=
+			qQhxOj3n0tJ6ymIPtJxNW6fOS8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			TKtGjMKxPdYpZlcXaDiK6KyfFELmF8rrP57wahSGgqQ=
+			W12reReN4T0hrgjVOmLze6+uF4aOUSTrGo/Ncnk2aOw=
 			</data>
 		</dict>
 		<key>Modules/Willow.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -275,11 +275,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kAszvlCRdvaERJTQZ2EGNKWtuHY=
+			DdbevXlXwzTgk4GOfKDaz6xI+Rs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q9sSVdDUfW9U11/bSXKHfwfq8ojtcCPhXRdpM3ntmKw=
+			Urh0vo1P3gdVG4uioEunvh6qjRDYZAm2m2hnsSrk9mc=
 			</data>
 		</dict>
 		<key>Modules/Willow.swiftmodule/x86_64.swiftdoc</key>
@@ -308,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kAszvlCRdvaERJTQZ2EGNKWtuHY=
+			DdbevXlXwzTgk4GOfKDaz6xI+Rs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q9sSVdDUfW9U11/bSXKHfwfq8ojtcCPhXRdpM3ntmKw=
+			Urh0vo1P3gdVG4uioEunvh6qjRDYZAm2m2hnsSrk9mc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

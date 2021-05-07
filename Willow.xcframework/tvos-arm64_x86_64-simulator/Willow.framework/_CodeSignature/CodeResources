@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MNAZbQJx8uZIBzEkmLLGXB6Wz0U=
+		Lo94j/xu/vtZoXsD/VslXRHouuA=
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		n265nBLqK7aHg81KEHnBGUOYlHY=
+		heuCAc+HujNsz5T6m1ckOYDsCis=
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Willow.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		n265nBLqK7aHg81KEHnBGUOYlHY=
+		heuCAc+HujNsz5T6m1ckOYDsCis=
 		</data>
 		<key>Modules/Willow.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -119,11 +119,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n265nBLqK7aHg81KEHnBGUOYlHY=
+			heuCAc+HujNsz5T6m1ckOYDsCis=
 			</data>
 			<key>hash2</key>
 			<data>
-			9o/8q1GenmcfN80flUn5IdcPAAWvbQviiUeBr4N4+fs=
+			VbCfuGvjzsfM2bWzzRAkMZOyvdjmQY098AjmrsQDDVA=
 			</data>
 		</dict>
 		<key>Modules/Willow.swiftmodule/arm64.swiftdoc</key>
@@ -152,11 +152,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n265nBLqK7aHg81KEHnBGUOYlHY=
+			heuCAc+HujNsz5T6m1ckOYDsCis=
 			</data>
 			<key>hash2</key>
 			<data>
-			9o/8q1GenmcfN80flUn5IdcPAAWvbQviiUeBr4N4+fs=
+			VbCfuGvjzsfM2bWzzRAkMZOyvdjmQY098AjmrsQDDVA=
 			</data>
 		</dict>
 		<key>Modules/Willow.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
